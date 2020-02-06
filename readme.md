@@ -1,6 +1,6 @@
 # Sharepoint-To-Confluence Tools
 
-Simple set of scripts, created to pull data from an actual artifact and put into a modern Confluence site.
+Simple set of scripts, created to pull data from an actual artifact (it belongs in a museum) and put into a modern Confluence site.
 
 ## Installation
 
